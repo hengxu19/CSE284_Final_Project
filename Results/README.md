@@ -2,6 +2,14 @@
 
 We noticed that the SNP heritability estimates for the trait `bodyweight` was highest across the methods. We also found that the method `GCTA` consistently provided higher heritability estimates across all traits.
 
+
+
+## Heritability Estimates Comparison Plot
+
+![Heritability Estimates Comparison for Rat Data](Results/images/heritability_estimates_comparison_rat_data.png "SNP Heritability Estimates Comparison for rat data")
+
+
+
 ## Method Comparison
 
 
