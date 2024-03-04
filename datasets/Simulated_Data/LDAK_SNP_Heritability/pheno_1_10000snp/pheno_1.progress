@@ -1,0 +1,3 @@
+Iteration	Her_K1	Her_All	Total_Variance	Likelihood	Difference	Target	Num_Constrained
+0	0.500000	0.500000	1.001001	-1414.178610	NA	0.001000	0
+1	0.502243	0.502243	0.999781	-1414.178021	0.000589	0.001000	0
