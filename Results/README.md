@@ -6,7 +6,7 @@ We noticed that the SNP heritability estimates for the trait `bodyweight` was hi
 
 ## Heritability Estimates Comparison Plot
 
-![Heritability Estimates Comparison for Rat Data](Results/images/heritability_estimates_comparison_rat_data.png "SNP Heritability Estimates Comparison for rat data")
+![Heritability Estimates Comparison for Rat Data](images/heritability_estimates_comparison_rat_data.png "SNP Heritability Estimates Comparison for rat data")
 
 
 
