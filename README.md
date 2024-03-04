@@ -44,7 +44,6 @@ Repository_Name/
 │           ├── process_description.pdf
 │           └── results.csv
 ├── Results/
-│   └── Comparative_Analysis.pdf
 ```
 
 ### Running the Analysis
