@@ -2,7 +2,7 @@
 
 ## Overview
 
-For our analysis, we selected four phenotypes to study: fasting glucose, BMI with tail, and body weight traits. These phenotypes were chosen for their relevance to obesity-related research and the availability of comprehensive data.
+For our analysis, we selected four phenotypes to study: fasting glucose, BMI with tail, and body weight traits. These phenotypes were chosen for their relevance to obesity-related research and the availability of comprehensive data. This data is publicly available at the [UC San Diego Library Digital Collections](https://library.ucsd.edu/dc/object/bb9156620z) 
 
 ## Phenotype Data
 
