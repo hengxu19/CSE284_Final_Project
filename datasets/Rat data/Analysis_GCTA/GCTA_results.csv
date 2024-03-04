@@ -1,0 +1,4 @@
+Trait,Heritability,SE
+bodyweight,0.46,0.03
+bmi_w_tail,0.31,0.03
+glucose_reading_mg_dl,0.15,0.03
