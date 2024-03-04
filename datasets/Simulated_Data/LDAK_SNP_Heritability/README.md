@@ -13,6 +13,7 @@ Output
 ```
 LDAK_SNP_Heritability/simulated_GRM_1000snp
 LDAK_SNP_Heritability/simulated_GRM_10000snp
+LDAK_SNP_Heritability/simulated_GRM_1000snp_5000_sample
 ```
 
 ## **Estimate SNP Heritability**
@@ -30,6 +31,7 @@ For Phenotype 1
 ```
 LDAK_SNP_Heritability/pheno_1_1000snp
 LDAK_SNP_Heritability/pheno_1_10000snp
+LDAK_SNP_Heritability/pheno_1_1000snp_5000_sample
 ```
 
 For Phenotype 50
@@ -37,4 +39,5 @@ For Phenotype 50
 ```
 LDAK_SNP_Heritability/pheno_50_1000snp
 LDAK_SNP_Heritability/pheno_50_10000snp
+LDAK_SNP_Heritability/pheno_50_1000snp_5000_sample
 ```
