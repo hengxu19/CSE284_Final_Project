@@ -1,0 +1,4 @@
+trait_name,heritability,SE
+bmi_w_tail,0.306271,0.025957
+body_weight_g,0.456991,0.025067
+glucose_reading_mg_dl,0.146678,0.024618
