@@ -1,0 +1,6 @@
+Datafile simulated_data_5000_sample_1000snp/simulate_5000_sample_1000snp.bed
+Power -0.250000
+Num_Preds 1000
+Sum_Weights 1000.0000
+Denominator 438.8976
+Off_Diag_Variance 1.114782e-03

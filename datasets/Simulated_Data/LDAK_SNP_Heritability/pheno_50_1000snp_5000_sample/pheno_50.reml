@@ -1,0 +1,20 @@
+Num_Kinships 1
+Num_Regions 0
+Num_Top_Predictors 0
+Num_Covariates 1
+Num_Environments 0
+Blupfile ./LDAK_SNP_Heritability/pheno_50_1000snp_5000_sample/pheno_50.indi.blp
+Regfile none
+Coeffsfile ./LDAK_SNP_Heritability/pheno_50_1000snp_5000_sample/pheno_50.coeff
+Covar_Heritability -0.0000
+Total_Samples 5000
+With_Phenotypes 5000
+Converged YES
+Null_Likelihood -7098.0323
+Alt_Likelihood -6284.1630
+LRT_Stat 1627.7385
+LRT_P 0.0000e+00
+Component Heritability SD Size Mega_Intensity SD
+Her_K1 0.515268 0.015904 438.90 1174.006175 36.235522
+Her_Top 0.000000 NA NA NA NA
+Her_All 0.515268 0.015904 438.90 1174.006175 36.235522
