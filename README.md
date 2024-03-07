@@ -1,6 +1,6 @@
 # Comparative Analysis of SNP Heritability Estimation Methods
 
-## Group Members
+## Group Members: Group 12
 - Apurva S. Chitre 
 - Gaoyuan Li 
 - Heng Xu 
