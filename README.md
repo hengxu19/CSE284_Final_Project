@@ -20,7 +20,7 @@ Our project aims to conduct a comparative evaluation of various SNP heritability
 
 ### Datasets
 - **Simulated data**: We have leveraged LDAK for simulating genotypic and phenotypic data to examine genetic architecture implications.
-- **Real data**: We’ve used a published dataset from an outbred rat population with obesity-related traits (Chitre et al. 2018), and analyze public GWAS data for traits with high (height) (Yengo et al. 2022) and low (major depression) heritability (Meng et al. 2024).
+- **Real data**: We’ve used a published dataset from an outbred rat population with obesity-related traits (Chitre et al. 2018), and analyze public datasets, including the 1000 Genomes Project data associated with low-density lipoprotein levels, and GWAS summary statistics for traits with high heritability, such as height (Yengo et al. 2022), and low heritability, such as major depression (Meng et al. 2024).
 
 ## Repository Structure
 
