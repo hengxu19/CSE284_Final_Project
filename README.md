@@ -53,6 +53,12 @@ Repository_Name/
 │       └── GCTA/
 │       └── LDSC/
 │       └── 1000G.ipynb
+│   └── Human_Height_GWAS/
+│       └── LDSC/
+│       └── LDAK/
+│   └── MDD_GWAS/
+│       └── LDSC/
+│       └── LDAK/
 ├── Results/
 ```
 
