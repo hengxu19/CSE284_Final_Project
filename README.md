@@ -43,6 +43,12 @@ Repository_Name/
 │           ├── Scripts/
 │           ├── process_description.pdf
 │           └── results.csv
+│   └── Simulated_data/
+│       └── simulated_data_1000_sample_1000snp/
+│       └── simulated_data_1000_sample_10000snp/
+│       └── simulated_data_5000_sample_1000snp/
+│       └── GCTA_SNP_Heritability/
+│       └── LDAK_SNP_Heritability/
 ├── Results/
 ```
 
@@ -72,7 +78,6 @@ The `Results` directory includes comprehensive insights and comparative analysis
 - Speed, D., Holmes, J. & Balding, D.J. Evaluating and improving heritability models using summary statistics. Nat Genet 52, 458–462 (2020). [https://doi.org/10.1038/s41588-020-0600-y](https://doi.org/10.1038/s41588-020-0600-y)
 - Yang, J., Benyamin, B., McEvoy, B. et al. Common SNPs explain a large proportion of the heritability for human height. Nat Genet 42, 565–569 (2010). [https://doi.org/10.1038/ng.608](https://doi.org/10.1038/ng.608)
 - Yengo, L., Vedantam, S., Marouli, E. et al. A saturated map of common genetic variants associated with human height. Nature 610, 704–712 (2022). [https://doi.org/10.1038/s41586-022-05275-y](https://doi.org/10.1038/s41586-022-05275-y)
-
 
 
 
