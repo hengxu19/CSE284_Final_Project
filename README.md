@@ -24,7 +24,7 @@ Our project aims to conduct a comparative evaluation of various SNP heritability
 
 ## Repository Structure
 
-Below is an overview of the repository structure, specifically highlighting the organization for `Rat data`. This structure is replicated for each dataset involved in our project:
+Below is an overview of the repository structure, specifically highlighting the organization for `Rat data`:
 
 ```plaintext
 Repository_Name/
@@ -49,6 +49,10 @@ Repository_Name/
 │       └── simulated_data_5000_sample_1000snp/
 │       └── GCTA_SNP_Heritability/
 │       └── LDAK_SNP_Heritability/
+│   └── LDL_1000G_Data/
+│       └── GCTA/
+│       └── LDSC/
+│       └── 1000G.ipynb
 ├── Results/
 ```
 
